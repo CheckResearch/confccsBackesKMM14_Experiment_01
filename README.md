@@ -66,4 +66,4 @@ ExitBandwidthPercentage= 100
 
 ## Results
 
-Reproduced and original values are almost equal for most of the time. Again, for a detailed description of the results including graphs and a comparison with the original results, please have a look at Section 5.1 of my bachelor thesis.
+Reproduced and original values are almost equal for most of the time. Again, for a detailed description of the results, including graphs and a comparison with the original results, please have a look at Section 5.1 of my bachelor thesis.
